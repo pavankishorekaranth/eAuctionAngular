@@ -46,3 +46,5 @@ testem.log
 Thumbs.db
 /.vs/slnx.sqlite-journal
 /.vs/eAuction/config/applicationhost.config
+.vs/eAuctionAngular/v16/.suo
+.vs/VSWorkspaceState.json
